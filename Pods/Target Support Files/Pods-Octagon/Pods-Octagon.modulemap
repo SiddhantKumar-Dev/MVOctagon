@@ -1,0 +1,6 @@
+framework module Pods_Octagon {
+  umbrella header "Pods-Octagon-umbrella.h"
+
+  export *
+  module * { export * }
+}
